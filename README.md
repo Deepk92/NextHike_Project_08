@@ -33,11 +33,7 @@ Visualization: Plotly for interactive visualizations; developed both a dashboard
 Encountered issues with data integration and real-time processing, which were addressed by optimizing data handling and improving Flask server capabilities.
 Ensured the system is scalable and secure, particularly when handling user data and providing real-time recommendations.
 
-- Future Enhancements
 
-Enhance the recommendation algorithm by incorporating machine learning models that learn from user feedback.
-Expand the geographic analysis of job markets to include more granular data at the city or regional level.
-Implement advanced data security measures to protect user information.
 
 - Conclusion
 
